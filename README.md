@@ -56,4 +56,4 @@ MEMBROS
 - [Thais Cristina](https://github.com/ThaisCristiny86)
 - [Leandro Dela Torre](https://github.com/Leodt85)
 - [Pedro Tarquinio Fernandez](https://github.com/...)
-- [Cristiano Roberto de Oliveira](https://github.com/...)
+- [Cristiano Roberto de Oliveira](github.com/orc1272)
