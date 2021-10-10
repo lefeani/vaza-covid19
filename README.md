@@ -55,5 +55,5 @@ MEMBROS
 - [Nicole Ferreira Silva](https://github.com/lefeani)
 - [Thais Cristina](https://github.com/ThaisCristiny86)
 - [Leandro Dela Torre](https://github.com/Leodt85)
-- [Pedro Tarquinio Fernandez](https://github.com/...)
+- [Pedro Tarquinio Fernandez](https://github.com/https://github.com/pedrotarquinio/tarquinio)
 - [Cristiano Roberto de Oliveira](https://github.com/orc1272)
