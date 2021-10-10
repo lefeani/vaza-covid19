@@ -53,7 +53,7 @@ MEMBROS
 </h3>
 
 - [Nicole Ferreira Silva](https://github.com/lefeani)
-- [Thais Cristina](https://github.com/ThaisCristiny86)
+- [Thais Cristina d Abrantes Sarmento](https://github.com/ThaisCristiny86)
 - [Leandro Dela Torre](https://github.com/Leodt85)
 - [Pedro Tarquinio Fernandez](https://github.com/pedrotarquinio)
 - [Cristiano Roberto de Oliveira](https://github.com/orc1272)
