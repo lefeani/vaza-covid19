@@ -112,13 +112,13 @@ nav {
   margin-bottom: -70px;
 }
 
-/*ICONE DO LINKEDIN*/
+/*FOTO DE CRISTIANO*/
 p.linkedin {            
   width: 20px;
   height: 32px;
   margin: 10px auto 30px auto;
   background-size: 100% 100%;  
-  background-image: url("../images/linkedin.png");
+  background-image: url("../images/cristiano.jpg");
   background-repeat: no-repeat;  
 }
 section.perfil {
