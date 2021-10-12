@@ -158,3 +158,13 @@ footer {
 footer p {
   text-align: center;
 }
+
+@media (max-width: 300px) {
+  body {
+    fle: 1fr;
+  } 
+
+@media (max-width: 300px) {
+  .section--2 {
+    flex: 1fr;
+    } 
