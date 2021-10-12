@@ -92,8 +92,8 @@ h2 {
 }
 
 .foto-covid {
-  width: 200px;
-  height: 145px;
+  width: 300px;
+  height: 150px;
 }
 
 .news {
@@ -123,7 +123,10 @@ h2 {
   width: 300px;
   height: 150px;
 }
-
+.foto-noticia {
+  width: 300px;
+  height: 150px; 
+  }
 button {
   border: none;
   background: #2a75ff;
