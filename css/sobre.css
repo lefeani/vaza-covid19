@@ -1,0 +1,131 @@
+
+body {  
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #fafafa;
+}
+
+nav {
+    background: #63dc3d;
+    padding: 10px;
+  }
+  
+  nav:hover {
+    background: #8c52e5;
+    padding: 10px;
+  }
+/* BORDA DO CARTAO E ANIMAÇÃO*/
+.cartao {
+  position: relative;
+  width: 85%;
+  height: 100%;  
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  overflow: hidden;
+  text-align: justify;
+  margin: 15px auto 15px auto;
+}
+
+.cartao::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 120%;
+  background: linear-gradient(#303f9f, #f57c00);
+  animation: animacao 4s linear infinite;
+}
+
+.cartao::after {
+  content: "";
+  position: absolute;
+  inset: 4px;
+  background: #fafafa;
+  border-radius: 16px;
+}
+
+@keyframes animacao {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/*TITULO NOME PERFIL*/
+
+.cartao h2 {
+  position: relative;
+  padding-top: 20px;
+  padding-left: 5px;
+  color: #212121;
+  z-index: 10;  
+  text-align: center;
+  margin-bottom: 20px;
+}
+/*SOBRE O PERFIL */
+.cartao p {
+  position: relative;
+  color: #212121;
+  z-index: 10;
+  padding-left: 10px;
+  padding-right: 10px;
+  line-height: 1.5;
+}
+/* FOTO DE LEANDRO*/
+.imgLeandro {  
+  width: 122px;
+  height: 122px;
+  border-radius: 50%;
+  background: url(../images/leandro.png) no-repeat;  
+  margin-top: 15px;
+  margin-bottom: -70px;
+}
+/* FOTO DE NICOLE*/
+.imgNicole {  
+  width: 122px;
+  height: 122px;
+  border-radius: 50%;
+  background: url(../images/nicole.png) no-repeat;  
+  margin-top: 15px;
+  margin-bottom: -70px;
+}
+/* FOTO DE PEDRO */
+.imgPedro {  
+  width: 122px;
+  height: 122px;
+  border-radius: 50%;
+  background: url(../images/pedro.png) no-repeat;  
+  margin-top: 15px;
+  margin-bottom: -70px;
+}
+
+/* FOTO DE THAIS*/
+.imgThais {  
+  width: 122px;
+  height: 122px;
+  border-radius: 50%;
+  background: url(../images/thais.png) no-repeat;   
+  margin-top: 15px;
+  margin-bottom: -70px;
+}
+
+/*ICONE DO LINKEDIN*/
+p.linkedin {            
+  width: 20px;
+  height: 32px;
+  margin: 10px auto 30px auto;
+  background-size: 100% 100%;  
+  background-image: url("../images/linkedin.png");
+  background-repeat: no-repeat;  
+}
+section.perfil {
+    position: relative;
+    border-bottom: 2px solid #8c52e5;
+    width: 95%;
+    margin: 0 auto 0 auto;
+    z-index: 10;
+}
+
