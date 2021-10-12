@@ -168,10 +168,10 @@ footer {
 footer p {
   text-align: center;
   color: black;
-  line-height: 1.0;
+  line-height: 1.5;
 }
 
 footer p img {
   width: 32px;
-  height: 32px;
+  height: 32px;  
 }
