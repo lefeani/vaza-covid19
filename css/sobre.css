@@ -6,6 +6,15 @@ body {
   background: #fafafa;
 }
 
+nav {
+    background: #63dc3d;
+    padding: 10px;
+  }
+  
+  nav:hover {
+    background: #8c52e5;
+    padding: 10px;
+  }
 /* BORDA DO CARTAO E ANIMAÇÃO*/
 .cartao {
   position: relative;
@@ -105,8 +114,8 @@ body {
 
 /* FOTO DE CRISTIANO*/
 .imgCristiano {            
-  width: 145px;
-  height: 195px;
+  width: 150px;
+  height: 200px;
   border-radius: 50%;
   background: url(../images/cristiano.png) no-repeat;     
   margin-top: 15px;
