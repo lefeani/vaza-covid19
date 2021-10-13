@@ -112,12 +112,12 @@ nav {
   margin-bottom: -70px;
 }
 
-/*FOTO DE CRISTIANO*/
+/* FOTO DE CRISTIANO*/
 .imgCristiano {            
-  width: 122px;
-  height: 122px;
+  width: 150px;
+  height: 200px;
   border-radius: 50%;
-  background: url(../images/cristiano.jpg) no-repeat;   
+  background: url(../images/cristiano.png) no-repeat;     
   margin-top: 15px;
   margin-bottom: -70px;
    
