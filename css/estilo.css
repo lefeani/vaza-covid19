@@ -150,7 +150,7 @@ button {
   color: white;
   padding: 15px;
   border-radius: 10px;
-  margin-inline:  100px;
+  margin-inline: 100px;
   cursor: pointer;
   
 }
@@ -183,8 +183,8 @@ footer p {
 }
 
 footer p img {  
-  margin: 0 auto 0 auto;
-  width: 32px;
-  height: 32px;  
+  margin: 0 auto  0 auto;
+  width: 45px;
+  height:45px;  
 }
 
