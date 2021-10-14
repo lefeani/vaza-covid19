@@ -79,7 +79,7 @@ nav {
   width: 122px;
   height: 122px;
   border-radius: 50%;
-  background: url(../images/leandro.png) no-repeat;  
+  background: url(../imagens/leandro.png) no-repeat;  
   margin-top: 15px;
   margin-bottom: -70px;
 }
@@ -88,7 +88,7 @@ nav {
   width: 122px;
   height: 122px;
   border-radius: 50%;
-  background: url(../images/nicole.png) no-repeat;  
+  background: url(../imagens/nicole.png) no-repeat;  
   margin-top: 15px;
   margin-bottom: -70px;
 }
@@ -97,7 +97,7 @@ nav {
   width: 122px;
   height: 122px;
   border-radius: 50%;
-  background: url(../images/pedro.png) no-repeat;  
+  background: url(../imagens/pedro.png) no-repeat;  
   margin-top: 15px;
   margin-bottom: -70px;
 }
@@ -107,7 +107,7 @@ nav {
   width: 122px;
   height: 122px;
   border-radius: 50%;
-  background: url(../images/thais.png) no-repeat;   
+  background: url(../imagens/thais.png) no-repeat;   
   margin-top: 15px;
   margin-bottom: -70px;
 }
@@ -117,7 +117,7 @@ nav {
   width: 150px;
   height: 200px;
   border-radius: 50%;
-  background: url(../images/cristiano.png) no-repeat;     
+  background: url(../imagens/cristiano.png) no-repeat;     
   margin-top: 15px;
   margin-bottom: -70px;
    
@@ -129,7 +129,7 @@ p.linkedin {
   height: 32px;
   margin: 10px auto 30px auto;
   background-size: 100% 100%;  
-  background-image: url("../images/linkedin.png");
+  background-image: url("../imagens/linkedin.png");
   background-repeat: no-repeat;  
 }
 section.perfil {
