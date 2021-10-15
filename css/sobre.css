@@ -3,7 +3,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #fafafa;
+  background: lightgrey;
 }
 
 /* BORDA DO CARTAO E ANIMAÇÃO*/
