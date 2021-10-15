@@ -1,9 +1,9 @@
 body{
-    min-height: 100vw;
+    min-height: 500vw;
 }
 
 footer {
-    width: 100%;
+    width: 50%;
     height: 150px;
     background: #63dc3d;
     text-align: center;
