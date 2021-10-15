@@ -104,9 +104,9 @@ body {
 }
 
 /* FOTO DE CRISTIANO*/
-.imgCristiano {            
-  width: 145px;
-  height: 195px;
+.imgCristiano {           
+  width: 140px;
+  height: 220px;
   border-radius: 50%;
   background: url(../images/cristiano.png) no-repeat;     
   margin-top: 15px;
