@@ -1,5 +1,5 @@
 body{
-    min-height: 500vw;
+    min-height: 20vw;
     background: lightgrey;
 }
 
@@ -9,7 +9,7 @@ footer {
     background: #63dc3d;
     text-align: center;
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse
     justify-content: center;
     align-items: center;  
     bottom: 0;
