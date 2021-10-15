@@ -36,7 +36,6 @@ LINGUAGENS
 <p align="center">
 HTML
 - CSS
-- JavaScript
 </p>
 <hr>
   
