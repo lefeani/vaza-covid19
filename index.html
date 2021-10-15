@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<html>
 <head>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -11,13 +11,38 @@
 
 <body>
   <!-- NAVEGAÇÃO -->
-  <nav>
-    <ul>
-      <li><a class="link" href="index.html">Home</a></li>
-      <li><a class="link" href="sobre.html">Sobre</a></li>
-      <li><a class="link" href="contato.html">Contato</a></li>
+  <nav class="tabs"> 
+    <ul class="tabs_group"
+    role="tablist"
+    aria-label="Lista de abas">
+      <li class="tabas_tab is-active"
+      data-content="1"
+      role="tab"
+      aria-controls="tab-content-1"
+      aria-selected="true"
+      id="tab-1"
+      tabindex="0"><a class="link" href="index.html">Home</a></li>
+
+      
+      <li class="tabas_tab js-tab"
+      data-content="2"
+      role="tab"
+      aria-controls="tab-content-2"
+      aria-selected="false"
+      id="tab-2"
+      tabindex="-1"><a class="link" href="sobre.html">Sobre</a></li>
+
+      <li class="tabas_tab js-tab"
+      data-content="3"
+      role="tab"
+      aria-controls="tab-content-3"
+      aria-selected="false"
+      id="tab-3"
+      tabindex="-1"><a class="link" href="contato.html">Contato</a></li>
       <li><a class="link" href="saibamais.html">Saiba mais</a></li>
     </ul>
+
+
   </nav>
   <!-- PRINCIPAL -->
   <main>
@@ -44,7 +69,7 @@
     <section class="section--2">
       <!-- 1° NOTÍCIA -->
       <article class="news">
-        <img class="foto-noticia" src="images/noticia1.jpg" />
+        <img class="foto-noticia" src="images/noticia1.jpg"/>
         <h3>
           Saiba qual é a eficácia das principais vacinas contra a Covid-19
         </h3>
@@ -106,7 +131,7 @@
         src="https://www.podbean.com/player-v2/?i=zdgmz-f5da44-pb&from=old_player&btn-skin=7&skin=1&mini=0&rtl=0&fonts=Helvetica&download=1&share=1&start_at=0" allowfullscreen=""></iframe></article></center>
     </section>
 
-    <!-git - RODÁPE EM BAIXO -->
+    <!--git - RODÁPE EM BAIXO -->
     <footer>
       <p>
         5° Turma - Equipe Tech Itaú</br>
