@@ -18,7 +18,7 @@ OBJETIVO
   Criar uma pagina com os conteúdos abordados no curso e  exercitar o trabalho colaborativo.</p>
 
 <p align="center">
-...
+
 </p>
   
 <hr>
