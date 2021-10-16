@@ -7,7 +7,8 @@ DESCRIÇÃO
 </h3>
 
 <p align="center">
-Porque a covid-19 é mais letal e mata muitos seres humanos. Um problema que teve é a falta de vacina, depois de muito tempo as empresas farmacêuticas tentaram criar uma nova vacina contra a covid-19 e os testes por mais de 4 meses para funcionaram para ver a eficácia delas.
+O primeiro semestre do ano 2020 foi marcado pelo início da pandemia Covid-19.
+Dessa forma, as pessoas começaram a lidar com as dificuldades tais como perdas de familiares/amigos, complicações de economia, estado psicológico abalado e  diante de tanta notícia pessimista, criamos a página com o intuito de transmitir as boas notícias de superações , solidariedade e dos avanços do combate da Pandemia.
 </p>
 <hr>
 
