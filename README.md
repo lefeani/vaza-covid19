@@ -14,6 +14,8 @@ Porque a covid-19 é mais letal e mata muitos seres humanos. Um problema que tev
 <h3 align="center">
 OBJETIVO
 </h3>
+<p align="center">
+  Criar uma pagina com os conteúdos abordados no curso e  exercitar o trabalho colaborativo.</p>
 
 <p align="center">
 ...
@@ -51,8 +53,8 @@ Nome do grupo: Grupo Itaú - Vaza Covid-19
 MEMBROS
 </h3>
 
-- [Nicole Ferreira Silva](https://github.com/lefeani)
-- [Thais Cristina de Abrantes Sarmento](https://github.com/ThaisCristiny86)
-- [Leandro Dela Torre](https://github.com/Leodt85)
-- [Pedro Tarquinio Fernandez](https://github.com/pedrotarquinio)
 - [Cristiano Roberto de Oliveira](https://github.com/orc1272)
+- [Leandro Dela Torre](https://github.com/Leodt85)
+- [Nicole Ferreira Silva](https://github.com/lefeani)
+- [Pedro Tarquinio Fernandez](https://github.com/pedrotarquinio)
+- [Thais Cristina de Abrantes Sarmento](https://github.com/ThaisCristiny86)
