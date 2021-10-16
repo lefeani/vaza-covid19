@@ -1,6 +1,6 @@
 body{
     min-height: 20vw;
-    background: lightgrey;
+    background: whitesmoke;
 }
 
 footer {
@@ -15,8 +15,28 @@ footer {
     bottom: 0;
     left: 0;
   }
-  
-  
+  h1 {
+    color: darkorange;
+    
+  }
+
+  a{
+    color: black;
+  }
+ article{
+
+  color: darkorange  ;
+  background-size: 0in;
+  width: 60%;
+    height: 250px;
+ }
+
+
+
+
+
+
+
   footer p {  
     text-align: center;
     
