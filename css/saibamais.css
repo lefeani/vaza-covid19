@@ -9,7 +9,7 @@ footer {
     background: #63dc3d;
     text-align: center;
     display: flex;
-    flex-direction: column-reverse
+    flex-direction: column-reverse;
     justify-content: center;
     align-items: center;  
     bottom: 0;

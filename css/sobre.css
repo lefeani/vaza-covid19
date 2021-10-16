@@ -1,133 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
 
-body {  
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  background: lightgrey;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-/* BORDA DO CARTAO E ANIMAÇÃO*/
-.cartao {
-  position: relative;
-  width: 85%;
-  height: 100%;  
-  justify-content: center;
-  background: rgba(0, 0, 0, 0.2);
-  border-radius: 20px;
-  overflow: hidden;
-  text-align: justify;
-  margin: 15px auto 15px auto;
+body {
+    background-color: whitesmoke;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    color: #434343;
 }
 
-.cartao::before {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 120%;
-  background: linear-gradient(#303f9f, #f57c00);
-  animation: animacao 4s linear infinite;
-}
-
-.cartao::after {
-  content: "";
-  position: absolute;
-  inset: 4px;
-  background: #fafafa;
-  border-radius: 16px;
-}
-
-@keyframes animacao {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-
-/*TITULO NOME PERFIL*/
-
-.cartao h2 {
-  position: relative;
-  padding-top: 20px;
-  padding-left: 5px;
-  color: #212121;
-  z-index: 10;  
+.logo {
+  height: 200px;
+  margin-top: -130px;
   text-align: center;
-  margin-bottom: 20px;
-}
-/*SOBRE O PERFIL */
-.cartao p {
-  position: relative;
-  color: #212121;
-  z-index: 10;
-  padding-left: 10px;
-  padding-right: 10px;
-  line-height: 1.5;
-}
-/* FOTO DE LEANDRO*/
-.imgLeandro {  
-  width: 122px;
-  height: 122px;
-  border-radius: 50%;
-  background: url(../images/leandro.png) no-repeat;  
-  margin-top: 15px;
-  margin-bottom: -70px;
-}
-/* FOTO DE NICOLE*/
-.imgNicole {  
-  width: 122px;
-  height: 122px;
-  border-radius: 50%;
-  background: url(../images/nicole.png) no-repeat;  
-  margin-top: 15px;
-  margin-bottom: -70px;
-}
-/* FOTO DE PEDRO */
-.imgPedro {  
-  width: 122px;
-  height: 122px;
-  border-radius: 50%;
-  background: url(../images/pedro.png) no-repeat;  
-  margin-top: 15px;
-  margin-bottom: -70px;
 }
 
-/* FOTO DE THAIS*/
-.imgThais {  
-  width: 122px;
-  height: 122px;
-  border-radius: 50%;
-  background: url(../images/thais.png) no-repeat;   
-  margin-top: 15px;
-  margin-bottom: -70px;
+.logo img {
+    margin-top: -50px;
+    width: 10px;
+    opacity: 0.1;    
 }
 
-/* FOTO DE CRISTIANO*/
-.imgCristiano {           
-  width: 140px;
-  height: 220px;
-  border-radius: 50%;
-  background: url(../images/cristiano.png) no-repeat;     
-  margin-top: 15px;
-  margin-bottom: -70px;
-   
+.logo p {
+    margin-top: -280px;
+    margin-left: 40px;
+    font-size: 55px;
+    color: #00349A;    
+    font-family: 'Lato', sans-serif;    
 }
 
-/*ICONE DO LINKEDIN*/
-p.linkedin {            
-  width: 20px;
-  height: 32px;
-  margin: 10px auto 30px auto;
-  background-size: 100% 100%;  
-  background-image: url("../images/linkedin.png");
-  background-repeat: no-repeat;  
+ul {
+    height: 100px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: linear-gradient(to bottom right, #ff6600, #ff8b3d);    
 }
-section.perfil {
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: bold;
+    margin-top: 20px;
+    padding: 12px 25px;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 30px;   
+}
+
+li a:hover {
+    background-color: rgba(0, 0, 255, 0.8);
+    border-radius: 8px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+
+
+main.cards {
+    display: flex;
+    justify-content: center;
+    padding: 80px 20px 20px 0;
+    margin-top: -50px;
+    z-index: 0;
+}
+
+section {
     position: relative;
-    border-bottom: 2px solid #8c52e5;
-    width: 95%;
-    margin: 0 auto 0 auto;
-    z-index: 10;
+    width: 330px;
+    height: 500px;
+    padding: 0px;
+    margin: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
+.fundo {
+    width: 330px;
+    height: 160px;
+    background-image: linear-gradient(to bottom right, #ff8b3d, #ff6600);
+    border-radius: 5px;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.fundo .branco {
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+    background-color: white;
+    position: relative;
+    margin-left: 10px;
+}
+
+.fundo img {
+    height: 120px;
+    border-radius: 50%;
+    position: relative;
+    margin: 5px
+}
+
+h3 {
+    position: relative;
+    text-align: center;
+    margin-left: 10px;
+    color: white;
+    padding-right: 13px;
+}
+
+.descricao {
+    margin-top: 15px;
+    padding: 0 10px 25px 10px;
+    text-align: justify;
+    line-height: 1.5;
+    padding-bottom: 35px;
+}
+
+.botao {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    background: #00349A;
+    position: absolute;
+    bottom: 30px;
+    left: 45%;
+    right: 55%;
+}
+
+.linkedin {
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
