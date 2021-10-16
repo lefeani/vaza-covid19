@@ -8,7 +8,7 @@ DESCRIÇÃO
 
 <p align="center">
 O primeiro semestre do ano 2020 foi marcado pelo início da pandemia Covid-19.
-Dessa forma, as pessoas começaram a lidar com as dificuldades tais como perdas de familiares/amigos, complicações de economia, estado psicológico abalado, diante de tanta notícia pessimista, criamos a página com o intuito de transmitir as boas notícias de superações e solidariedade e dos avanços do combate da Pandemia.
+Dessa forma, as pessoas começaram a lidar com as dificuldades tais como perdas de familiares/amigos, complicações de economia, estado psicológico abalado, diante de tanta notícia pessimista, criamos a página com o intuito de transmitir as boas notícias de superações, solidariedade e dos avanços do combate da Pandemia.
 </p>
 <hr>
 
