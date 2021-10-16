@@ -7,16 +7,19 @@ DESCRIÇÃO
 </h3>
 
 <p align="center">
-Porque a covid-19 é mais letal e mata muitos seres humanos. Um problema que teve é a falta de vacina. Depois de muito tempo as empresas farmacêuticas tentaram criar uma nova vacina contra a covid-19. Os testes por mais de 4 meses para funcionaram para ver a eficácia delas.
+O primeiro semestre do ano 2020 foi marcado pelo início da pandemia Covid-19.
+Dessa forma, as pessoas começaram a lidar com as dificuldades tais como perdas de familiares/amigos, complicações de economia, estado psicológico abalado, diante de tanta notícia pessimista, criamos a página com o intuito de transmitir as boas notícias de superações e solidariedade e dos avanços do combate da Pandemia.
 </p>
 <hr>
 
 <h3 align="center">
 OBJETIVO
 </h3>
+<p align="center">
+  Criar uma pagina com os conteúdos abordados no curso e  exercitar o trabalho colaborativo.</p>
 
 <p align="center">
-...
+
 </p>
   
 <hr>
@@ -36,7 +39,6 @@ LINGUAGENS
 <p align="center">
 HTML
 - CSS
-- JavaScript
 </p>
 <hr>
   
@@ -52,8 +54,8 @@ Nome do grupo: Grupo Itaú - Vaza Covid-19
 MEMBROS
 </h3>
 
-- [Nicole Ferreira Silva](https://github.com/lefeani)
-- [Thais Cristina de Abrantes Sarmento](https://github.com/ThaisCristiny86)
-- [Leandro Dela Torre](https://github.com/Leodt85)
-- [Pedro Tarquinio Fernandez](https://github.com/pedrotarquinio)
 - [Cristiano Roberto de Oliveira](https://github.com/orc1272)
+- [Leandro Dela Torre](https://github.com/Leodt85)
+- [Nicole Ferreira Silva](https://github.com/lefeani)
+- [Pedro Tarquinio Fernandez](https://github.com/pedrotarquinio)
+- [Thais Cristina de Abrantes Sarmento](https://github.com/ThaisCristiny86)
