@@ -7,7 +7,7 @@ DESCRIÇÃO
 </h3>
 
 <p align="center">
-Porque a covid-19 é mais letal e mata muitos seres humanos. Um problema que teve é a falta de vacina. Depois de muito tempo as empresas farmacêuticas tentaram criar uma nova vacina contra a covid-19. Os testes por mais de 4 meses para funcionaram para ver a eficácia delas.
+Porque a covid-19 é mais letal e mata muitos seres humanos. Um problema que teve é a falta de vacina, depois de muito tempo as empresas farmacêuticas tentaram criar uma nova vacina contra a covid-19 e os testes por mais de 4 meses para funcionaram para ver a eficácia delas.
 </p>
 <hr>
 
