@@ -1,6 +1,6 @@
 body{
   min-height: 20vw;
-  background: whitesmoke;
+  background: whitesmoke;  
 }
 
 footer {
@@ -9,7 +9,7 @@ footer {
   background: #ff6600;
   text-align: center;
   display: flex;
-  flex-direction: column-reverse
+  flex-direction: column-reverse;
   justify-content: center;
   align-items: center;  
   bottom: 0;
@@ -28,11 +28,6 @@ article{
   width: 60%;
   height: 300px;
  }
-
-
-
-
-
 
 footer p {  
   text-align: center;

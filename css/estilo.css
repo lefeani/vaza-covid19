@@ -7,25 +7,24 @@
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-html, body {
-    width: 100%;
-    height: 100%;
-}
-
 body {
     background: #F6F9FF;
-
     justify-content: center;
     color: #434343;
 }
 
+nav {
+    width: 100%;
+}
+
 .capa {
     width: 800px;
-    text-align: center;
+    text-align: justify;
     margin: 0 auto;
-    margin-top: 180px;
+    margin-top: 220px;
     margin-bottom: 20px;
-    font-size: 26px;
+    font-size: 25px;
+    
 }
 
 .logo {
@@ -51,12 +50,9 @@ ul {
     height: 100px;
     list-style-type: none;
     margin: 0;
-    padding: 0;
-    overflow: hidden;
+    padding: 0;    
     background:#ff6600;
 }
-
-
 
 li {
     float: left;
@@ -86,29 +82,41 @@ main.cards {
     display: flex;
     justify-content: center;
     padding: 20px 20px 20px 0;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 section {
-    width: 900px;
-    height: 400px;
+    width: 665px;
+    height: 500px;
     padding: 0px;
     margin: 20px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     display: flex;
+    border-radius:8px;
 }
 
 .fundo {
-    height: 400px;
-    width: 1200px;
+    height: 500px;    
     background:#ff6600;
     border-radius: 5px;
+}
 
+.fundo1 {
+    width: 625px;   
+    background:#ff6600;
+    border-radius: 5px;    
+    justify-content: center;
+    align-items: center;
 
 }
 
+iframe {
+    margin-left: 45px;
+    margin-top: 40px;
+}
+
 section img {
-    width: 350px;
+    width: 320px;
     height: 250px;
 }
 
@@ -118,11 +126,11 @@ h3 {
     margin-left: 10px;
     color: white;
     padding-right: 13px;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .descricao {
-    margin-top: 15px;
+    margin-top: -40px;
     padding: 55px 20px 25px 30px;
     text-align: justify;
     line-height: 1.7;
@@ -131,8 +139,8 @@ h3 {
 }
 
 a.button {
-    margin-top: 340px;
-    margin-left: -250px;
+    margin-top: 440px;
+    margin-left: -210px;
     width: 100px;
     height: 45px;
     border-radius: 8px;
@@ -144,19 +152,6 @@ a.button {
     padding-top: 10px;
 }
 
-a.button1 {
-    margin-top: 340px;
-    margin-left: -650px;
-    width: 100px;
-    height: 45px;
-    border-radius: 8px;
-    background:#ff6600;
-    color: white;
-    position: absolute;
-    text-align: center;
-    text-decoration: none;
-    padding-top: 10px;
-}
 
 .button:hover {
     background-color: #00349A;
@@ -176,6 +171,7 @@ footer {
   justify-content: center;
   align-items: center;  
   bottom: 0;
+  margin-top: 40px;
   left: 0;
 }
 
