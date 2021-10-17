@@ -1,0 +1,17 @@
+body{
+    min-height: 20vw;
+    background: #171010;
+     
+  }
+  
+  h1 {
+    color: greenyellow;
+    
+  }
+  a{
+    color: whitesmoke;
+  }
+  article{ 
+    width: 60%;
+    height: 200px;
+   }
