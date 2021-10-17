@@ -1,6 +1,7 @@
 body{
   min-height: 20vw;
-  background: whitesmoke;  
+  background: white
+   
 }
 
 footer {
@@ -26,7 +27,7 @@ article{
 
  
   width: 60%;
-  height: 300px;
+  height: 200px;
  }
 
 footer p {  
